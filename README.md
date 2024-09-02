@@ -9,14 +9,14 @@
     <a href="https://www.linkedin.com/in/ryan-yan-b296a4205/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://madrobot9182.github.io/">
-      <img src="https://img.shields.io/website?style=for-the-badge&logo=github&logoColor=white&url=https://madrobot9182.github.io/" alt="Youtube Badge"/>
+    <a href="https://protfolio-react-sage.vercel.app/">
+      <img src="https://img.shields.io/website?style=for-the-badge&logo=github&logoColor=white&url=https://protfolio-react-sage.vercel.app/" alt="Website Badge"/>
     </a>
   </div>
 
 <!-- Profile view Counter -->
 
-<img src="https://komarev.com/ghpvc/?username=Madrobot9182&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Madrobot9182&style=flat-square&color=blue" alt="Profile Counter"/>
 
 <!-- hey there -->
 
@@ -32,13 +32,12 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRwdXF4aDd1emQydWF2OGY5OTJ2bnptZXFsd2kyOTNwMTA1aDllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGTn7JyRkjE2y3K/giphy.gif" width="600" height="300">
 </div>
 
-```
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 </div>
-```
+
 
 ---
 
