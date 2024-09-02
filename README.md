@@ -27,15 +27,12 @@
 </div>
 
 <!-- Zainy Border -->
-
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRwdXF4aDd1emQydWF2OGY5OTJ2bnptZXFsd2kyOTNwMTA1aDllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1XGTn7JyRkjE2y3K/giphy.gif" width="600" height="300">
 </div>
 
 <div align="center">
   <img src="images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
 </div>
 
 
