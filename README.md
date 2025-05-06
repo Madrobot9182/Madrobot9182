@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/ryan-yan-b296a4205/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://protfolio-react-sage.vercel.app/">
+    <a href="https://madrobot9182.github.io/">
       <img src="https://img.shields.io/website?style=for-the-badge&logo=github&logoColor=white&url=https://protfolio-react-sage.vercel.app/" alt="Website Badge"/>
     </a>
   </div>
