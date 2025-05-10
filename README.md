@@ -52,7 +52,7 @@
 
 ### :globe_with_meridians: Website
 
-My Portfolio Website - [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://protfolio-react-sage.vercel.app/)
+My Portfolio Website - [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://madrobot9182.github.io/)
 
 A game searching project using Rawg.io API - [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://react-game-hub-dusky.vercel.app/)
 
