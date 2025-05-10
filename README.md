@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://madrobot9182.github.io/">
-      <img src="https://img.shields.io/website?style=for-the-badge&logo=github&logoColor=white&url=https://protfolio-react-sage.vercel.app/" alt="Website Badge"/>
+      <img src="https://img.shields.io/website?style=for-the-badge&logo=github&logoColor=white&url=https://madrobot9182.github.io/" alt="Website Badge"/>
     </a>
   </div>
 
